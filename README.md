@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Chander98MB/MSFP4) 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212195-cpu/MSFP4)
 
 # Práctica 4 (5.6) — Modelo y control del sistema endócrino
 
@@ -12,7 +12,7 @@ El caso de estudio representa los procesos de secreción, transporte, almacenami
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** Zaid Alexander Arredondo Medina · 23212180 · L23212180@tectijuana.edu.mx
+**Estudiante:** Garcia Grijalva Armando · 23212195 · L23212195@tectijuana.edu.mx
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
