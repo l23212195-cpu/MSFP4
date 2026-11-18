@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Práctica 3: Modelado y control del sistema musculoesquelético
+  Práctica 4: Modelado y control del sistema endócrino
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -13,13 +13,17 @@ authors:
     family-names: Garcia Grijalva
     email: L23212195@tijuana.tecnm.mx
     affiliation: TecNM / IT Tijuana
-repository-code: 'https://github.com/l23212195-cpu/MSFP3'
+repository-code: 'https://github.com/l23212195-cpu/MSFP4'
 keywords:
-  - Sistema musculoesquelético
-  - Analogía fuerza–voltaje
-  - Atrofia muscular
-  - Superposición
-  - Simulación in silico
+  - Circuito RLC de segundo orden
+  - Eje endócrino
+  - Controlador PID
+  - Amplificadores operacionales
+  - MATLAB
+  - Simulink
+  - Simscape Electrical
+  - Python
+  - Instrumentación electrónica
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-11-03'
+date-released: '2026-11-17'
